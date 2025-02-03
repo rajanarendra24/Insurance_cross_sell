@@ -109,7 +109,7 @@ We welcome contributions from the community! If you’d like to contribute:
 
 # 📧 CONTACT ME:
 
-1) Email:   rajanarendra.ponnada@gmail.com
+1) Email:   narendraponnada2@gmail.com
 
 2) LinkedIn: SRINIVASA RAJA NARENDRA PONNADA
 

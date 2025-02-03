@@ -34,10 +34,8 @@ Response: Target variable (1 = customer is interested, 0 = customer is not inter
 Data Preprocessing: Handling missing values, encoding categorical variables, and scaling numerical features.
 
 Exploratory Data Analysis (EDA): Analyzing the dataset to understand patterns and relationships between features.
-![image](https://github.com/user-attachments/assets/fd0a1ed1-2cc4-4e24-92b5-c9e6a82b0e61)
 
 Feature Engineering: Creating new features or transforming existing ones to improve model performance.
-![image](https://github.com/user-attachments/assets/82453069-4eee-4d8c-b78c-89826750d67c)
 
 Model Selection: Testing various machine learning models (e.g., Logistic Regression, Random Forest, XGBoost) to predict customer interest.
 
